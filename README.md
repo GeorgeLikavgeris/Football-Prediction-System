@@ -15,6 +15,29 @@ This is an End-To-End project from data collection to match predictions. Using a
 - Over/Under goal probabilities.
 - Interactive Streamlit dashboard.
 
+---
+## Project Structure
+
+Football-Prediction-System/
+       
+    ├── data/
+        ├── matches.csv
+        ├── predictions_all.csv
+    ├── sql/
+        ├── schema.sql
+        ├── views.sql
+    |    
+    ├── data_collect.py        
+    ├── data_validation.py     
+    ├── load_csv_to_sql.py     
+    ├── ht_ft_predict.py       
+    ├── full_bet_app.py 
+    |       
+    ├── requirements.txt       
+    ├── README.md              
+    └── .gitignore
+
+---
 ## Database Desing
 
 The system uses a normalized MySQL schema:
@@ -68,6 +91,11 @@ The prediction engine uses a **Poisson distribution model** to estimate:
 
 `Bash
 `python -m streamlit run full_predict_app.py
+
+---
+## Live Demo
+This application is **live** and continiously updated:
+[**Live App**](https://football-prediction-system.streamlit.app)
 
 ---
 
