@@ -31,7 +31,7 @@ Football-Prediction-System/
     ├── data_validation.py     
     ├── load_csv_to_sql.py     
     ├── ht_ft_predict.py       
-    ├── full_bet_app.py 
+    ├── full_predict_app.py 
     |       
     ├── requirements.txt       
     ├── README.md              
