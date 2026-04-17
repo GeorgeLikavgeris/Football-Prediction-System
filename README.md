@@ -117,7 +117,15 @@ Sensitive Information (API keys, databse credentials) is stored in inviroment va
 
 ## Data Source
 
-The dataset used in this project was collected from Football-Data Org. Please make sure to comply with their terms and conditions when using data.
+The dataset used in this project was collected from football-data.org API.
+Please make sure to comply with their terms and conditions when using data.
+
+---
+
+## Disclaimer
+
+This project is for education and analytical purposes only.
+It does not provide financial or betting advice.
 
 ---
 
