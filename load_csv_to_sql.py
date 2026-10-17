@@ -194,7 +194,7 @@ def main():
         config = load_config()
         engine = create_db_engine(config)
 
-        df = load_data("data/all_leagues_2025.csv")
+        df = load_data("data/all_leagues_2026.csv")
 
         refresh_all(df, engine)
 

@@ -1,0 +1,555 @@
+date,matchday,home_team,away_team,home_score_ht,away_score_ht,home_score_ft,away_score_ft,final_score,final_result,league,season,over_under_ht,over_under_ft
+2026-08-21 19:00:00+00:00,1,Arsenal FC,Coventry City FC,2,0,3,0,3-0,H,Premier League,2026,1,1
+2026-08-22 11:30:00+00:00,1,Hull City AFC,Manchester United FC,2,0,2,0,2-0,H,Premier League,2026,1,0
+2026-08-22 14:00:00+00:00,1,Ipswich Town FC,Sunderland AFC,1,1,2,1,2-1,H,Premier League,2026,1,1
+2026-08-22 14:00:00+00:00,1,Nottingham Forest FC,Leeds United FC,0,0,0,1,0-1,A,Premier League,2026,0,0
+2026-08-22 14:00:00+00:00,1,Everton FC,Crystal Palace FC,1,0,2,0,2-0,H,Premier League,2026,0,0
+2026-08-22 16:30:00+00:00,1,Brentford FC,Tottenham Hotspur FC,2,0,3,0,3-0,H,Premier League,2026,1,1
+2026-08-23 13:00:00+00:00,1,Manchester City FC,AFC Bournemouth,0,1,2,1,2-1,H,Premier League,2026,0,1
+2026-08-23 13:00:00+00:00,1,Brighton & Hove Albion FC,Aston Villa FC,4,0,4,0,4-0,H,Premier League,2026,1,1
+2026-08-23 15:30:00+00:00,1,Newcastle United FC,Liverpool FC,1,0,2,2,2-2,D,Premier League,2026,0,1
+2026-08-24 19:00:00+00:00,1,Fulham FC,Chelsea FC,1,2,2,3,2-3,A,Premier League,2026,1,1
+2026-08-28 19:00:00+00:00,2,Crystal Palace FC,Manchester City FC,0,1,1,4,1-4,A,Premier League,2026,0,1
+2026-08-29 11:30:00+00:00,2,Liverpool FC,Nottingham Forest FC,0,1,2,2,2-2,D,Premier League,2026,0,1
+2026-08-29 14:00:00+00:00,2,AFC Bournemouth,Everton FC,1,0,1,1,1-1,D,Premier League,2026,0,0
+2026-08-29 14:00:00+00:00,2,Coventry City FC,Hull City AFC,0,0,0,1,0-1,A,Premier League,2026,0,0
+2026-08-29 16:30:00+00:00,2,Tottenham Hotspur FC,Newcastle United FC,0,0,0,2,0-2,A,Premier League,2026,0,0
+2026-08-30 13:00:00+00:00,2,Sunderland AFC,Fulham FC,0,0,1,0,1-0,H,Premier League,2026,0,0
+2026-08-30 13:00:00+00:00,2,Chelsea FC,Brighton & Hove Albion FC,3,1,4,3,4-3,H,Premier League,2026,1,1
+2026-08-30 13:00:00+00:00,2,Leeds United FC,Brentford FC,0,1,1,1,1-1,D,Premier League,2026,0,0
+2026-08-30 15:30:00+00:00,2,Manchester United FC,Ipswich Town FC,1,1,5,2,5-2,H,Premier League,2026,1,1
+2026-08-31 19:00:00+00:00,2,Aston Villa FC,Arsenal FC,0,0,0,1,0-1,A,Premier League,2026,0,0
+2026-09-04 19:00:00+00:00,3,Ipswich Town FC,Liverpool FC,0,2,0,2,0-2,A,Premier League,2026,1,0
+2026-09-05 11:30:00+00:00,3,Newcastle United FC,AFC Bournemouth,1,2,2,2,2-2,D,Premier League,2026,1,1
+2026-09-05 14:00:00+00:00,3,Nottingham Forest FC,Tottenham Hotspur FC,0,0,0,0,0-0,D,Premier League,2026,0,0
+2026-09-05 14:00:00+00:00,3,Manchester City FC,Coventry City FC,1,0,1,0,1-0,H,Premier League,2026,0,0
+2026-09-05 14:00:00+00:00,3,Brighton & Hove Albion FC,Leeds United FC,0,1,1,1,1-1,D,Premier League,2026,0,0
+2026-09-05 14:00:00+00:00,3,Brentford FC,Sunderland AFC,0,0,1,1,1-1,D,Premier League,2026,0,0
+2026-09-05 14:00:00+00:00,3,Fulham FC,Crystal Palace FC,2,1,2,3,2-3,A,Premier League,2026,1,1
+2026-09-05 16:30:00+00:00,3,Hull City AFC,Aston Villa FC,0,0,0,0,0-0,D,Premier League,2026,0,0
+2026-09-06 13:00:00+00:00,3,Everton FC,Manchester United FC,0,0,2,2,2-2,D,Premier League,2026,0,1
+2026-09-06 15:30:00+00:00,3,Arsenal FC,Chelsea FC,1,1,2,1,2-1,H,Premier League,2026,1,1
+2026-09-12 14:00:00+00:00,4,Crystal Palace FC,Ipswich Town FC,1,2,2,3,2-3,A,Premier League,2026,1,1
+2026-09-12 14:00:00+00:00,4,Liverpool FC,Fulham FC,0,0,0,0,0-0,D,Premier League,2026,0,0
+2026-09-12 14:00:00+00:00,4,Aston Villa FC,Nottingham Forest FC,0,0,1,2,1-2,A,Premier League,2026,0,1
+2026-09-12 14:00:00+00:00,4,AFC Bournemouth,Brentford FC,1,1,2,2,2-2,D,Premier League,2026,1,1
+2026-09-12 14:00:00+00:00,4,Chelsea FC,Hull City AFC,1,2,2,2,2-2,D,Premier League,2026,1,1
+2026-09-12 16:30:00+00:00,4,Tottenham Hotspur FC,Everton FC,0,0,0,0,0-0,D,Premier League,2026,0,0
+2026-09-12 19:00:00+00:00,4,Sunderland AFC,Arsenal FC,0,0,0,2,0-2,A,Premier League,2026,0,0
+2026-09-13 13:00:00+00:00,4,Coventry City FC,Brighton & Hove Albion FC,0,1,0,5,0-5,A,Premier League,2026,0,1
+2026-09-13 15:30:00+00:00,4,Manchester United FC,Manchester City FC,0,0,0,1,0-1,A,Premier League,2026,0,0
+2026-09-14 19:00:00+00:00,4,Leeds United FC,Newcastle United FC,3,0,4,1,4-1,H,Premier League,2026,1,1
+2026-09-18 19:00:00+00:00,5,Brentford FC,Chelsea FC,0,0,3,0,3-0,H,Premier League,2026,0,1
+2026-09-19 11:30:00+00:00,5,Tottenham Hotspur FC,Aston Villa FC,0,1,2,3,2-3,A,Premier League,2026,0,1
+2026-09-19 14:00:00+00:00,5,Everton FC,Ipswich Town FC,1,0,1,0,1-0,H,Premier League,2026,0,0
+2026-09-19 14:00:00+00:00,5,Brighton & Hove Albion FC,Arsenal FC,2,0,3,0,3-0,H,Premier League,2026,1,1
+2026-09-19 14:00:00+00:00,5,Newcastle United FC,Hull City AFC,2,0,2,1,2-1,H,Premier League,2026,1,1
+2026-09-19 16:30:00+00:00,5,Nottingham Forest FC,Coventry City FC,0,0,0,1,0-1,A,Premier League,2026,0,0
+2026-09-20 13:00:00+00:00,5,AFC Bournemouth,Liverpool FC,0,0,0,1,0-1,A,Premier League,2026,0,0
+2026-09-20 13:00:00+00:00,5,Leeds United FC,Crystal Palace FC,0,0,0,0,0-0,D,Premier League,2026,0,0
+2026-09-20 13:00:00+00:00,5,Manchester City FC,Sunderland AFC,3,2,5,3,5-3,H,Premier League,2026,1,1
+2026-09-20 15:30:00+00:00,5,Fulham FC,Manchester United FC,0,0,1,1,1-1,D,Premier League,2026,0,0
+2026-10-10 11:30:00+00:00,6,Arsenal FC,Leeds United FC,0,0,2,1,2-1,H,Premier League,2026,0,1
+2026-10-10 14:00:00+00:00,6,Sunderland AFC,Brighton & Hove Albion FC,0,0,0,2,0-2,A,Premier League,2026,0,0
+2026-10-10 14:00:00+00:00,6,Chelsea FC,AFC Bournemouth,2,0,5,1,5-1,H,Premier League,2026,1,1
+2026-10-10 14:00:00+00:00,6,Ipswich Town FC,Fulham FC,0,0,2,1,2-1,H,Premier League,2026,0,1
+2026-10-10 14:00:00+00:00,6,Aston Villa FC,Brentford FC,1,1,2,2,2-2,D,Premier League,2026,1,1
+2026-10-10 16:30:00+00:00,6,Manchester United FC,Tottenham Hotspur FC,0,0,1,1,1-1,D,Premier League,2026,0,0
+2026-10-11 13:00:00+00:00,6,Hull City AFC,Everton FC,0,0,2,2,2-2,D,Premier League,2026,0,1
+2026-10-11 13:00:00+00:00,6,Crystal Palace FC,Nottingham Forest FC,2,1,3,1,3-1,H,Premier League,2026,1,1
+2026-10-11 15:30:00+00:00,6,Liverpool FC,Manchester City FC,0,0,0,3,0-3,A,Premier League,2026,0,1
+2026-10-12 19:00:00+00:00,6,Coventry City FC,Newcastle United FC,1,0,4,1,4-1,H,Premier League,2026,0,1
+2026-08-15 17:30:00+00:00,1,Deportivo Alavés,Getafe CF,0,0,3,0,3-0,H,La Liga,2026,0,1
+2026-08-15 19:30:00+00:00,1,Sevilla FC,Rayo Vallecano de Madrid,0,1,2,1,2-1,H,La Liga,2026,0,1
+2026-08-16 15:00:00+00:00,1,Real Racing Club de Santander,Villarreal CF,2,2,2,2,2-2,D,La Liga,2026,1,1
+2026-08-16 17:00:00+00:00,1,RCD Espanyol de Barcelona,Levante UD,2,0,3,0,3-0,H,La Liga,2026,1,1
+2026-08-17 19:00:00+00:00,1,RC Deportivo La Coruña,Elche CF,1,0,1,1,1-1,D,La Liga,2026,0,0
+2026-08-19 19:00:00+00:00,1,Club Atlético de Madrid,Málaga CF,0,0,2,0,2-0,H,La Liga,2026,0,0
+2026-08-20 19:00:00+00:00,2,Rayo Vallecano de Madrid,Deportivo Alavés,0,0,1,1,1-1,D,La Liga,2026,0,0
+2026-08-21 19:00:00+00:00,2,Real Betis Balompié,Real Sociedad de Fútbol,0,0,1,0,1-0,H,La Liga,2026,0,0
+2026-08-22 15:00:00+00:00,2,Athletic Club,Sevilla FC,0,1,1,3,1-3,A,La Liga,2026,0,1
+2026-08-22 17:30:00+00:00,2,Valencia CF,RC Celta de Vigo,0,0,0,0,0-0,D,La Liga,2026,0,0
+2026-08-22 19:30:00+00:00,2,RCD Espanyol de Barcelona,Real Madrid CF,1,1,1,2,1-2,A,La Liga,2026,1,1
+2026-08-23 15:00:00+00:00,2,Club Atlético de Madrid,Villarreal CF,0,0,2,2,2-2,D,La Liga,2026,0,1
+2026-08-23 17:30:00+00:00,2,Getafe CF,Real Racing Club de Santander,0,0,1,0,1-0,H,La Liga,2026,0,0
+2026-08-23 19:30:00+00:00,2,Elche CF,FC Barcelona,0,2,0,5,0-5,A,La Liga,2026,1,1
+2026-08-24 17:30:00+00:00,2,CA Osasuna,Levante UD,0,0,0,0,0-0,D,La Liga,2026,0,0
+2026-08-24 19:30:00+00:00,2,Málaga CF,RC Deportivo La Coruña,1,1,1,1,1-1,D,La Liga,2026,1,0
+2026-08-25 19:00:00+00:00,1,Valencia CF,Real Betis Balompié,0,0,0,1,0-1,A,La Liga,2026,0,0
+2026-08-26 19:00:00+00:00,1,Real Madrid CF,Real Sociedad de Fútbol,1,1,4,1,4-1,H,La Liga,2026,1,1
+2026-08-27 18:30:00+00:00,1,RC Celta de Vigo,CA Osasuna,1,0,1,2,1-2,A,La Liga,2026,0,1
+2026-08-27 19:00:00+00:00,1,FC Barcelona,Athletic Club,1,0,2,0,2-0,H,La Liga,2026,0,0
+2026-08-28 17:00:00+00:00,3,Real Racing Club de Santander,Elche CF,3,0,3,2,3-2,H,La Liga,2026,1,1
+2026-08-28 19:30:00+00:00,3,Deportivo Alavés,Villarreal CF,1,0,1,0,1-0,H,La Liga,2026,0,0
+2026-08-29 15:00:00+00:00,3,Levante UD,Real Betis Balompié,2,2,5,2,5-2,H,La Liga,2026,1,1
+2026-08-29 17:00:00+00:00,3,Real Sociedad de Fútbol,RCD Espanyol de Barcelona,1,1,2,1,2-1,H,La Liga,2026,1,1
+2026-08-29 19:30:00+00:00,3,Sevilla FC,Club Atlético de Madrid,0,3,1,3,1-3,A,La Liga,2026,1,1
+2026-08-30 15:00:00+00:00,3,Real Madrid CF,Málaga CF,3,0,4,0,4-0,H,La Liga,2026,1,1
+2026-08-30 17:30:00+00:00,3,RC Deportivo La Coruña,Valencia CF,2,1,3,1,3-1,H,La Liga,2026,1,1
+2026-08-30 19:30:00+00:00,3,RC Celta de Vigo,Athletic Club,0,2,0,2,0-2,A,La Liga,2026,1,0
+2026-08-31 17:30:00+00:00,3,CA Osasuna,Getafe CF,1,0,1,0,1-0,H,La Liga,2026,0,0
+2026-08-31 19:30:00+00:00,3,FC Barcelona,Rayo Vallecano de Madrid,2,1,5,2,5-2,H,La Liga,2026,1,1
+2026-09-03 19:00:00+00:00,6,Real Sociedad de Fútbol,RC Celta de Vigo,0,0,0,0,0-0,D,La Liga,2026,0,0
+2026-09-04 19:00:00+00:00,4,Real Betis Balompié,Real Madrid CF,0,0,1,0,1-0,H,La Liga,2026,0,0
+2026-09-05 14:15:00+00:00,4,Athletic Club,Club Atlético de Madrid,0,0,3,0,3-0,H,La Liga,2026,0,1
+2026-09-05 16:30:00+00:00,4,Rayo Vallecano de Madrid,Real Racing Club de Santander,2,2,3,2,3-2,H,La Liga,2026,1,1
+2026-09-05 19:00:00+00:00,4,Villarreal CF,RC Deportivo La Coruña,1,1,2,3,2-3,A,La Liga,2026,1,1
+2026-09-06 14:15:00+00:00,4,Valencia CF,FC Barcelona,0,2,0,5,0-5,A,La Liga,2026,1,1
+2026-09-06 16:30:00+00:00,4,Deportivo Alavés,CA Osasuna,2,0,5,2,5-2,H,La Liga,2026,1,1
+2026-09-06 16:30:00+00:00,4,Málaga CF,Levante UD,0,0,0,0,0-0,D,La Liga,2026,0,0
+2026-09-06 19:00:00+00:00,4,RCD Espanyol de Barcelona,Sevilla FC,0,0,1,1,1-1,D,La Liga,2026,0,0
+2026-09-07 17:00:00+00:00,4,Getafe CF,RC Celta de Vigo,1,0,1,1,1-1,D,La Liga,2026,0,0
+2026-09-07 19:30:00+00:00,4,Elche CF,Real Sociedad de Fútbol,0,2,2,3,2-3,A,La Liga,2026,1,1
+2026-09-11 19:00:00+00:00,5,Sevilla FC,Valencia CF,0,0,1,0,1-0,H,La Liga,2026,0,0
+2026-09-12 12:00:00+00:00,5,Real Racing Club de Santander,Deportivo Alavés,1,1,2,1,2-1,H,La Liga,2026,1,1
+2026-09-12 14:15:00+00:00,5,CA Osasuna,RCD Espanyol de Barcelona,0,2,0,2,0-2,A,La Liga,2026,1,0
+2026-09-12 16:30:00+00:00,5,Athletic Club,Elche CF,0,0,1,1,1-1,D,La Liga,2026,0,0
+2026-09-12 19:00:00+00:00,5,Real Madrid CF,Rayo Vallecano de Madrid,3,0,4,1,4-1,H,La Liga,2026,1,1
+2026-09-13 12:00:00+00:00,5,RC Celta de Vigo,Málaga CF,1,0,1,1,1-1,D,La Liga,2026,0,0
+2026-09-13 14:15:00+00:00,5,Levante UD,FC Barcelona,0,2,2,4,2-4,A,La Liga,2026,1,1
+2026-09-13 16:30:00+00:00,5,Getafe CF,RC Deportivo La Coruña,0,0,1,1,1-1,D,La Liga,2026,0,0
+2026-09-13 19:00:00+00:00,5,Real Sociedad de Fútbol,Club Atlético de Madrid,0,0,0,3,0-3,A,La Liga,2026,0,1
+2026-09-14 19:00:00+00:00,5,Villarreal CF,Real Betis Balompié,1,2,1,2,1-2,A,La Liga,2026,1,1
+2026-09-15 17:00:00+00:00,6,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,2,0,2,1,2-1,H,La Liga,2026,1,1
+2026-09-15 18:00:00+00:00,6,Deportivo Alavés,Valencia CF,0,0,0,1,0-1,A,La Liga,2026,0,0
+2026-09-15 19:30:00+00:00,6,Elche CF,Real Madrid CF,0,2,2,3,2-3,A,La Liga,2026,1,1
+2026-09-16 17:00:00+00:00,6,RC Deportivo La Coruña,Sevilla FC,0,0,0,1,0-1,A,La Liga,2026,0,0
+2026-09-16 17:00:00+00:00,6,Club Atlético de Madrid,CA Osasuna,1,0,4,0,4-0,H,La Liga,2026,0,1
+2026-09-16 19:30:00+00:00,6,FC Barcelona,Real Racing Club de Santander,4,1,7,2,7-2,H,La Liga,2026,1,1
+2026-09-17 17:00:00+00:00,6,Real Betis Balompié,Getafe CF,1,0,1,0,1-0,H,La Liga,2026,0,0
+2026-09-17 19:30:00+00:00,6,Málaga CF,Villarreal CF,1,2,1,3,1-3,A,La Liga,2026,1,1
+2026-09-18 19:00:00+00:00,7,RCD Espanyol de Barcelona,Elche CF,0,2,1,3,1-3,A,La Liga,2026,1,1
+2026-09-19 12:00:00+00:00,7,CA Osasuna,Rayo Vallecano de Madrid,1,0,1,1,1-1,D,La Liga,2026,0,0
+2026-09-19 14:15:00+00:00,7,Athletic Club,Deportivo Alavés,0,0,0,0,0-0,D,La Liga,2026,0,0
+2026-09-19 16:30:00+00:00,7,RC Celta de Vigo,Real Racing Club de Santander,2,0,5,0,5-0,H,La Liga,2026,1,1
+2026-09-19 19:00:00+00:00,7,Sevilla FC,FC Barcelona,1,1,1,3,1-3,A,La Liga,2026,1,1
+2026-09-20 12:00:00+00:00,7,Getafe CF,Málaga CF,0,0,1,0,1-0,H,La Liga,2026,0,0
+2026-09-20 14:15:00+00:00,7,Club Atlético de Madrid,Real Madrid CF,0,0,2,1,2-1,H,La Liga,2026,0,1
+2026-09-20 16:30:00+00:00,7,RC Deportivo La Coruña,Real Betis Balompié,0,1,1,1,1-1,D,La Liga,2026,0,0
+2026-09-20 16:30:00+00:00,7,Villarreal CF,Levante UD,1,1,3,1,3-1,H,La Liga,2026,1,1
+2026-09-20 19:00:00+00:00,7,Valencia CF,Real Sociedad de Fútbol,0,1,2,3,2-3,A,La Liga,2026,0,1
+2026-10-09 19:00:00+00:00,8,Málaga CF,RCD Espanyol de Barcelona,0,1,1,1,1-1,D,La Liga,2026,0,0
+2026-10-10 14:15:00+00:00,8,Deportivo Alavés,Club Atlético de Madrid,1,1,1,2,1-2,A,La Liga,2026,1,1
+2026-10-10 16:30:00+00:00,8,FC Barcelona,Getafe CF,2,0,3,0,3-0,H,La Liga,2026,1,1
+2026-10-10 19:00:00+00:00,8,Real Madrid CF,Villarreal CF,0,0,1,0,1-0,H,La Liga,2026,0,0
+2026-08-28 18:30:00+00:00,1,FC Bayern München,VfB Stuttgart,1,0,5,1,5-1,H,Bundesliga,2026,0,1
+2026-08-29 13:30:00+00:00,1,RB Leipzig,Borussia Mönchengladbach,1,0,3,0,3-0,H,Bundesliga,2026,0,1
+2026-08-29 13:30:00+00:00,1,FSV Mainz 05,SC Paderborn 07,0,0,0,0,0-0,D,Bundesliga,2026,0,0
+2026-08-29 13:30:00+00:00,1,FC Union Berlin,Eintracht Frankfurt,1,2,3,3,3-3,D,Bundesliga,2026,1,1
+2026-08-29 13:30:00+00:00,1,SV 07 Elversberg,Bayer 04 Leverkusen,2,0,3,2,3-2,H,Bundesliga,2026,1,1
+2026-08-29 13:30:00+00:00,1,FC Köln,TSG 1899 Hoffenheim,0,1,3,2,3-2,H,Bundesliga,2026,0,1
+2026-08-29 16:30:00+00:00,1,Borussia Dortmund,Hamburger SV,2,0,2,0,2-0,H,Bundesliga,2026,1,0
+2026-08-30 13:30:00+00:00,1,SC Freiburg,SV Werder Bremen,2,0,4,1,4-1,H,Bundesliga,2026,1,1
+2026-08-30 15:30:00+00:00,1,FC Augsburg,FC Schalke 04,1,0,3,0,3-0,H,Bundesliga,2026,0,1
+2026-09-04 18:30:00+00:00,2,VfB Stuttgart,FC Köln,1,0,4,1,4-1,H,Bundesliga,2026,0,1
+2026-09-05 13:30:00+00:00,2,SV Werder Bremen,RB Leipzig,1,0,3,1,3-1,H,Bundesliga,2026,0,1
+2026-09-05 13:30:00+00:00,2,TSG 1899 Hoffenheim,Borussia Dortmund,1,0,2,3,2-3,A,Bundesliga,2026,0,1
+2026-09-05 13:30:00+00:00,2,Bayer 04 Leverkusen,FC Union Berlin,2,0,4,0,4-0,H,Bundesliga,2026,1,1
+2026-09-05 13:30:00+00:00,2,Borussia Mönchengladbach,SV 07 Elversberg,2,1,3,4,3-4,A,Bundesliga,2026,1,1
+2026-09-05 13:30:00+00:00,2,SC Paderborn 07,SC Freiburg,0,1,0,1,0-1,A,Bundesliga,2026,0,0
+2026-09-05 16:30:00+00:00,2,FC Schalke 04,FC Bayern München,0,0,0,0,0-0,D,Bundesliga,2026,0,0
+2026-09-06 13:30:00+00:00,2,Hamburger SV,FSV Mainz 05,0,2,0,5,0-5,A,Bundesliga,2026,1,1
+2026-09-06 15:30:00+00:00,2,Eintracht Frankfurt,FC Augsburg,1,0,1,4,1-4,A,Bundesliga,2026,0,1
+2026-09-11 18:30:00+00:00,3,FC Union Berlin,FC Schalke 04,0,1,1,3,1-3,A,Bundesliga,2026,0,1
+2026-09-12 13:30:00+00:00,3,TSG 1899 Hoffenheim,VfB Stuttgart,1,0,2,1,2-1,H,Bundesliga,2026,0,1
+2026-09-12 13:30:00+00:00,3,Borussia Dortmund,SC Paderborn 07,1,0,3,0,3-0,H,Bundesliga,2026,0,1
+2026-09-12 13:30:00+00:00,3,FC Augsburg,Bayer 04 Leverkusen,0,1,2,2,2-2,D,Bundesliga,2026,0,1
+2026-09-12 13:30:00+00:00,3,FSV Mainz 05,Eintracht Frankfurt,0,2,1,3,1-3,A,Bundesliga,2026,1,1
+2026-09-12 13:30:00+00:00,3,SC Freiburg,Borussia Mönchengladbach,2,0,5,0,5-0,H,Bundesliga,2026,1,1
+2026-09-12 16:30:00+00:00,3,FC Köln,SV Werder Bremen,1,0,1,1,1-1,D,Bundesliga,2026,0,0
+2026-09-13 13:30:00+00:00,3,RB Leipzig,Hamburger SV,2,0,5,0,5-0,H,Bundesliga,2026,1,1
+2026-09-13 15:30:00+00:00,3,SV 07 Elversberg,FC Bayern München,0,1,1,2,1-2,A,Bundesliga,2026,0,1
+2026-09-18 18:30:00+00:00,4,FC Bayern München,FC Union Berlin,3,0,7,0,7-0,H,Bundesliga,2026,1,1
+2026-09-19 13:30:00+00:00,4,Hamburger SV,FC Köln,1,0,2,1,2-1,H,Bundesliga,2026,0,1
+2026-09-19 13:30:00+00:00,4,Borussia Mönchengladbach,FSV Mainz 05,1,2,3,4,3-4,A,Bundesliga,2026,1,1
+2026-09-19 13:30:00+00:00,4,SV Werder Bremen,FC Augsburg,0,1,3,2,3-2,H,Bundesliga,2026,0,1
+2026-09-19 13:30:00+00:00,4,Eintracht Frankfurt,SC Freiburg,2,1,2,2,2-2,D,Bundesliga,2026,1,1
+2026-09-19 16:30:00+00:00,4,VfB Stuttgart,Borussia Dortmund,0,0,0,1,0-1,A,Bundesliga,2026,0,0
+2026-09-20 13:30:00+00:00,4,Bayer 04 Leverkusen,RB Leipzig,1,0,2,0,2-0,H,Bundesliga,2026,0,0
+2026-09-20 15:30:00+00:00,4,FC Schalke 04,SV 07 Elversberg,0,0,0,0,0-0,D,Bundesliga,2026,0,0
+2026-09-20 17:30:00+00:00,4,SC Paderborn 07,TSG 1899 Hoffenheim,2,0,3,1,3-1,H,Bundesliga,2026,1,1
+2026-10-09 18:30:00+00:00,5,Borussia Dortmund,SV Werder Bremen,0,0,2,2,2-2,D,Bundesliga,2026,0,1
+2026-10-10 13:30:00+00:00,5,FSV Mainz 05,Bayer 04 Leverkusen,2,2,3,4,3-4,A,Bundesliga,2026,1,1
+2026-10-10 13:30:00+00:00,5,SC Paderborn 07,VfB Stuttgart,0,1,0,2,0-2,A,Bundesliga,2026,0,0
+2026-10-10 13:30:00+00:00,5,FC Union Berlin,SV 07 Elversberg,0,0,1,0,1-0,H,Bundesliga,2026,0,0
+2026-10-10 13:30:00+00:00,5,TSG 1899 Hoffenheim,Hamburger SV,1,1,2,3,2-3,A,Bundesliga,2026,1,1
+2026-10-10 13:30:00+00:00,5,FC Augsburg,FC Bayern München,1,0,2,2,2-2,D,Bundesliga,2026,0,1
+2026-10-10 16:30:00+00:00,5,RB Leipzig,Eintracht Frankfurt,4,0,6,0,6-0,H,Bundesliga,2026,1,1
+2026-10-11 13:30:00+00:00,5,FC Köln,Borussia Mönchengladbach,1,1,2,1,2-1,H,Bundesliga,2026,1,1
+2026-10-11 15:30:00+00:00,5,SC Freiburg,FC Schalke 04,1,1,2,1,2-1,H,Bundesliga,2026,1,1
+2026-08-22 16:30:00+00:00,1,Udinese Calcio,Como 1907,1,0,1,1,1-1,D,Serie A,2026,0,0
+2026-08-22 16:30:00+00:00,1,FC Internazionale Milano,AC Monza,1,1,4,1,4-1,H,Serie A,2026,1,1
+2026-08-22 18:45:00+00:00,1,Genoa CFC,SSC Napoli,0,0,0,2,0-2,A,Serie A,2026,0,0
+2026-08-22 18:45:00+00:00,1,Parma Calcio 1913,Cagliari Calcio,0,0,0,1,0-1,A,Serie A,2026,0,0
+2026-08-23 16:30:00+00:00,1,Frosinone Calcio,Juventus FC,0,1,0,1,0-1,A,Serie A,2026,0,0
+2026-08-23 16:30:00+00:00,1,Venezia FC,US Lecce,0,0,0,2,0-2,A,Serie A,2026,0,0
+2026-08-23 18:45:00+00:00,1,Atalanta BC,US Sassuolo Calcio,1,0,2,1,2-1,H,Serie A,2026,0,1
+2026-08-23 18:45:00+00:00,1,Torino FC,AC Milan,0,0,1,2,1-2,A,Serie A,2026,0,1
+2026-08-24 16:30:00+00:00,1,Bologna FC 1909,SS Lazio,0,0,0,1,0-1,A,Serie A,2026,0,0
+2026-08-24 18:45:00+00:00,1,AS Roma,ACF Fiorentina,1,0,4,0,4-0,H,Serie A,2026,0,1
+2026-08-28 18:45:00+00:00,2,AC Milan,Venezia FC,0,0,2,0,2-0,H,Serie A,2026,0,0
+2026-08-29 16:30:00+00:00,2,US Sassuolo Calcio,Torino FC,1,1,2,1,2-1,H,Serie A,2026,1,1
+2026-08-29 16:30:00+00:00,2,AC Monza,Udinese Calcio,1,3,2,3,2-3,A,Serie A,2026,1,1
+2026-08-29 16:30:00+00:00,2,ACF Fiorentina,Frosinone Calcio,0,2,0,3,0-3,A,Serie A,2026,1,1
+2026-08-29 18:45:00+00:00,2,Juventus FC,Parma Calcio 1913,0,0,2,0,2-0,H,Serie A,2026,0,0
+2026-08-30 16:30:00+00:00,2,SSC Napoli,Como 1907,1,2,1,2,1-2,A,Serie A,2026,1,1
+2026-08-30 18:45:00+00:00,2,SS Lazio,Genoa CFC,1,0,1,0,1-0,H,Serie A,2026,0,0
+2026-08-30 18:45:00+00:00,2,Cagliari Calcio,FC Internazionale Milano,0,1,0,1,0-1,A,Serie A,2026,0,0
+2026-08-31 16:30:00+00:00,2,US Lecce,AS Roma,0,3,0,4,0-4,A,Serie A,2026,1,1
+2026-08-31 18:45:00+00:00,2,Atalanta BC,Bologna FC 1909,0,0,1,0,1-0,H,Serie A,2026,0,0
+2026-09-04 18:45:00+00:00,3,Genoa CFC,Como 1907,1,3,1,4,1-4,A,Serie A,2026,1,1
+2026-09-05 13:00:00+00:00,3,ACF Fiorentina,Torino FC,0,0,1,2,1-2,A,Serie A,2026,0,1
+2026-09-05 16:00:00+00:00,3,FC Internazionale Milano,SSC Napoli,0,0,3,2,3-2,H,Serie A,2026,0,1
+2026-09-05 18:45:00+00:00,3,AS Roma,Atalanta BC,0,0,2,1,2-1,H,Serie A,2026,0,1
+2026-09-06 13:00:00+00:00,3,Parma Calcio 1913,AC Monza,0,1,1,1,1-1,D,Serie A,2026,0,0
+2026-09-06 13:00:00+00:00,3,Frosinone Calcio,Venezia FC,2,0,3,2,3-2,H,Serie A,2026,1,1
+2026-09-06 16:00:00+00:00,3,Bologna FC 1909,US Sassuolo Calcio,0,1,2,2,2-2,D,Serie A,2026,0,1
+2026-09-06 18:45:00+00:00,3,Juventus FC,AC Milan,0,0,1,1,1-1,D,Serie A,2026,0,0
+2026-09-07 16:30:00+00:00,3,Cagliari Calcio,US Lecce,1,0,1,0,1-0,H,Serie A,2026,0,0
+2026-09-07 18:45:00+00:00,3,Udinese Calcio,SS Lazio,0,0,1,2,1-2,A,Serie A,2026,0,1
+2026-09-11 18:45:00+00:00,4,Venezia FC,ACF Fiorentina,1,2,2,4,2-4,A,Serie A,2026,1,1
+2026-09-12 13:00:00+00:00,4,Genoa CFC,Frosinone Calcio,0,1,1,1,1-1,D,Serie A,2026,0,0
+2026-09-12 16:00:00+00:00,4,SS Lazio,AC Milan,2,0,2,2,2-2,D,Serie A,2026,1,1
+2026-09-12 18:45:00+00:00,4,Atalanta BC,Cagliari Calcio,1,1,1,2,1-2,A,Serie A,2026,1,1
+2026-09-13 13:00:00+00:00,4,US Lecce,AC Monza,3,1,3,2,3-2,H,Serie A,2026,1,1
+2026-09-13 16:00:00+00:00,4,SSC Napoli,Bologna FC 1909,0,0,1,0,1-0,H,Serie A,2026,0,0
+2026-09-13 18:45:00+00:00,4,US Sassuolo Calcio,Juventus FC,0,0,3,2,3-2,H,Serie A,2026,0,1
+2026-09-14 16:30:00+00:00,4,Como 1907,Parma Calcio 1913,1,0,2,1,2-1,H,Serie A,2026,0,1
+2026-09-14 16:30:00+00:00,4,Torino FC,AS Roma,0,1,0,2,0-2,A,Serie A,2026,0,0
+2026-09-14 18:45:00+00:00,4,FC Internazionale Milano,Udinese Calcio,2,2,5,3,5-3,H,Serie A,2026,1,1
+2026-09-18 18:45:00+00:00,5,AC Monza,US Sassuolo Calcio,0,0,2,1,2-1,H,Serie A,2026,0,1
+2026-09-19 13:00:00+00:00,5,Bologna FC 1909,Torino FC,1,0,1,1,1-1,D,Serie A,2026,0,0
+2026-09-19 13:00:00+00:00,5,Udinese Calcio,Cagliari Calcio,0,0,0,1,0-1,A,Serie A,2026,0,0
+2026-09-19 16:00:00+00:00,5,AS Roma,FC Internazionale Milano,2,0,2,2,2-2,D,Serie A,2026,1,1
+2026-09-19 18:45:00+00:00,5,Venezia FC,SS Lazio,0,0,0,2,0-2,A,Serie A,2026,0,0
+2026-09-20 10:30:00+00:00,5,ACF Fiorentina,SSC Napoli,0,1,1,1,1-1,D,Serie A,2026,0,0
+2026-09-20 13:00:00+00:00,5,Frosinone Calcio,Como 1907,2,0,2,0,2-0,H,Serie A,2026,1,0
+2026-09-20 13:00:00+00:00,5,Parma Calcio 1913,Genoa CFC,1,0,2,1,2-1,H,Serie A,2026,0,1
+2026-09-20 16:00:00+00:00,5,Juventus FC,Atalanta BC,1,0,2,0,2-0,H,Serie A,2026,0,0
+2026-09-20 18:45:00+00:00,5,AC Milan,US Lecce,1,0,3,0,3-0,H,Serie A,2026,0,1
+2026-10-10 13:00:00+00:00,6,Genoa CFC,ACF Fiorentina,2,0,2,1,2-1,H,Serie A,2026,1,1
+2026-10-10 16:00:00+00:00,6,FC Internazionale Milano,Parma Calcio 1913,3,0,3,0,3-0,H,Serie A,2026,1,1
+2026-10-10 18:45:00+00:00,6,SSC Napoli,Frosinone Calcio,2,0,3,0,3-0,H,Serie A,2026,1,1
+2026-10-11 10:30:00+00:00,6,Como 1907,AS Roma,0,0,0,0,0-0,D,Serie A,2026,0,0
+2026-10-11 13:00:00+00:00,6,US Lecce,Bologna FC 1909,0,1,1,2,1-2,A,Serie A,2026,0,1
+2026-10-11 13:00:00+00:00,6,SS Lazio,AC Monza,2,0,3,1,3-1,H,Serie A,2026,1,1
+2026-10-11 16:00:00+00:00,6,US Sassuolo Calcio,AC Milan,0,0,1,1,1-1,D,Serie A,2026,0,0
+2026-10-11 18:45:00+00:00,6,Cagliari Calcio,Juventus FC,1,0,1,1,1-1,D,Serie A,2026,0,0
+2026-10-12 16:30:00+00:00,6,Atalanta BC,Venezia FC,3,1,3,1,3-1,H,Serie A,2026,1,1
+2026-10-12 18:45:00+00:00,6,Torino FC,Udinese Calcio,1,1,2,1,2-1,H,Serie A,2026,1,1
+2026-08-21 18:45:00+00:00,1,Olympique de Marseille,RC Strasbourg Alsace,0,0,4,0,4-0,H,Ligue 1,2026,0,1
+2026-08-22 15:15:00+00:00,1,Racing Club de Lens,AJ Auxerre,1,0,5,2,5-2,H,Ligue 1,2026,0,1
+2026-08-22 18:45:00+00:00,1,Le Mans FC,Stade Brestois 29,1,1,2,2,2-2,D,Ligue 1,2026,1,1
+2026-08-22 18:45:00+00:00,1,ES Troyes AC,Paris FC,0,0,0,0,0-0,D,Ligue 1,2026,0,0
+2026-08-22 18:45:00+00:00,1,OGC Nice,FC Lorient,0,0,0,0,0-0,D,Ligue 1,2026,0,0
+2026-08-22 18:45:00+00:00,1,Toulouse FC,Olympique Lyonnais,0,0,0,2,0-2,A,Ligue 1,2026,0,0
+2026-08-23 13:00:00+00:00,1,Angers SCO,Lille OSC,0,2,0,2,0-2,A,Ligue 1,2026,1,0
+2026-08-23 15:15:00+00:00,1,Le Havre AC,AS Monaco FC,0,1,0,1,0-1,A,Ligue 1,2026,0,0
+2026-08-23 18:45:00+00:00,1,Stade Rennais FC 1901,Paris Saint-Germain FC,2,0,2,2,2-2,D,Ligue 1,2026,1,1
+2026-08-28 18:45:00+00:00,2,Lille OSC,Paris Saint-Germain FC,1,0,2,2,2-2,D,Ligue 1,2026,0,1
+2026-08-29 15:15:00+00:00,2,RC Strasbourg Alsace,Racing Club de Lens,0,1,2,1,2-1,H,Ligue 1,2026,0,1
+2026-08-29 18:45:00+00:00,2,FC Lorient,ES Troyes AC,0,2,1,2,1-2,A,Ligue 1,2026,1,1
+2026-08-29 18:45:00+00:00,2,Olympique Lyonnais,Le Havre AC,0,0,1,1,1-1,D,Ligue 1,2026,0,0
+2026-08-29 18:45:00+00:00,2,AJ Auxerre,Angers SCO,1,1,1,3,1-3,A,Ligue 1,2026,1,1
+2026-08-29 18:45:00+00:00,2,Stade Brestois 29,Toulouse FC,1,1,2,2,2-2,D,Ligue 1,2026,1,1
+2026-08-30 13:00:00+00:00,2,Paris FC,OGC Nice,1,0,3,0,3-0,H,Ligue 1,2026,0,1
+2026-08-30 15:15:00+00:00,2,Stade Rennais FC 1901,Le Mans FC,2,1,3,2,3-2,H,Ligue 1,2026,1,1
+2026-08-30 18:45:00+00:00,2,AS Monaco FC,Olympique de Marseille,1,0,2,0,2-0,H,Ligue 1,2026,0,0
+2026-09-03 18:45:00+00:00,3,Toulouse FC,Lille OSC,0,0,0,1,0-1,A,Ligue 1,2026,0,0
+2026-09-04 17:00:00+00:00,3,Olympique Lyonnais,AJ Auxerre,2,1,3,1,3-1,H,Ligue 1,2026,1,1
+2026-09-04 19:05:00+00:00,3,Paris Saint-Germain FC,AS Monaco FC,1,0,1,2,1-2,A,Ligue 1,2026,0,1
+2026-09-05 15:15:00+00:00,3,Racing Club de Lens,FC Lorient,0,0,0,1,0-1,A,Ligue 1,2026,0,0
+2026-09-05 18:45:00+00:00,3,Le Havre AC,Stade Brestois 29,0,1,1,2,1-2,A,Ligue 1,2026,0,1
+2026-09-05 18:45:00+00:00,3,OGC Nice,Le Mans FC,1,1,1,1,1-1,D,Ligue 1,2026,1,0
+2026-09-06 13:00:00+00:00,3,ES Troyes AC,RC Strasbourg Alsace,1,2,2,6,2-6,A,Ligue 1,2026,1,1
+2026-09-06 15:15:00+00:00,3,Angers SCO,Stade Rennais FC 1901,1,2,1,2,1-2,A,Ligue 1,2026,1,1
+2026-09-06 18:45:00+00:00,3,Olympique de Marseille,Paris FC,1,2,2,3,2-3,A,Ligue 1,2026,1,1
+2026-09-11 18:45:00+00:00,4,Stade Rennais FC 1901,Olympique de Marseille,0,0,1,0,1-0,H,Ligue 1,2026,0,0
+2026-09-12 15:15:00+00:00,4,RC Strasbourg Alsace,AS Monaco FC,0,0,1,1,1-1,D,Ligue 1,2026,0,0
+2026-09-12 18:45:00+00:00,4,FC Lorient,Toulouse FC,2,0,2,2,2-2,D,Ligue 1,2026,1,1
+2026-09-12 18:45:00+00:00,4,AJ Auxerre,OGC Nice,0,0,1,0,1-0,H,Ligue 1,2026,0,0
+2026-09-12 18:45:00+00:00,4,Le Havre AC,Angers SCO,0,0,0,0,0-0,D,Ligue 1,2026,0,0
+2026-09-12 18:45:00+00:00,4,Paris FC,Olympique Lyonnais,0,0,0,0,0-0,D,Ligue 1,2026,0,0
+2026-09-13 13:00:00+00:00,4,Lille OSC,ES Troyes AC,1,0,2,0,2-0,H,Ligue 1,2026,0,0
+2026-09-13 15:15:00+00:00,4,Le Mans FC,Racing Club de Lens,2,1,2,2,2-2,D,Ligue 1,2026,1,1
+2026-09-13 18:45:00+00:00,4,Stade Brestois 29,Paris Saint-Germain FC,0,1,0,1,0-1,A,Ligue 1,2026,0,0
+2026-09-18 18:45:00+00:00,5,AS Monaco FC,Racing Club de Lens,1,0,2,1,2-1,H,Ligue 1,2026,0,1
+2026-09-19 15:15:00+00:00,5,Paris FC,RC Strasbourg Alsace,1,0,2,1,2-1,H,Ligue 1,2026,0,1
+2026-09-19 18:45:00+00:00,5,Le Mans FC,FC Lorient,1,0,2,1,2-1,H,Ligue 1,2026,0,1
+2026-09-19 18:45:00+00:00,5,Toulouse FC,Le Havre AC,0,0,3,2,3-2,H,Ligue 1,2026,0,1
+2026-09-19 18:45:00+00:00,5,Angers SCO,ES Troyes AC,1,0,2,0,2-0,H,Ligue 1,2026,0,0
+2026-09-19 18:45:00+00:00,5,Olympique Lyonnais,Stade Rennais FC 1901,2,0,4,0,4-0,H,Ligue 1,2026,1,1
+2026-09-20 13:00:00+00:00,5,AJ Auxerre,Stade Brestois 29,0,1,2,1,2-1,H,Ligue 1,2026,0,1
+2026-09-20 15:15:00+00:00,5,OGC Nice,Lille OSC,1,0,2,1,2-1,H,Ligue 1,2026,0,1
+2026-09-20 18:45:00+00:00,5,Olympique de Marseille,Paris Saint-Germain FC,0,0,1,2,1-2,A,Ligue 1,2026,0,1
+2026-10-09 18:45:00+00:00,6,Racing Club de Lens,Olympique Lyonnais,1,0,2,1,2-1,H,Ligue 1,2026,0,1
+2026-10-10 15:15:00+00:00,6,Lille OSC,Le Havre AC,1,0,1,0,1-0,H,Ligue 1,2026,0,0
+2026-10-10 18:45:00+00:00,6,Stade Brestois 29,Angers SCO,4,0,5,1,5-1,H,Ligue 1,2026,1,1
+2026-10-10 18:45:00+00:00,6,FC Lorient,Paris FC,0,0,1,0,1-0,H,Ligue 1,2026,0,0
+2026-10-10 18:45:00+00:00,6,Paris Saint-Germain FC,Le Mans FC,1,0,3,1,3-1,H,Ligue 1,2026,0,1
+2026-10-10 18:45:00+00:00,6,AS Monaco FC,Toulouse FC,2,0,2,2,2-2,D,Ligue 1,2026,1,1
+2026-10-11 13:00:00+00:00,6,OGC Nice,RC Strasbourg Alsace,1,1,2,1,2-1,H,Ligue 1,2026,1,1
+2026-10-11 15:15:00+00:00,6,Stade Rennais FC 1901,AJ Auxerre,1,1,4,1,4-1,H,Ligue 1,2026,1,1
+2026-10-11 18:45:00+00:00,6,ES Troyes AC,Olympique de Marseille,0,0,0,2,0-2,A,Ligue 1,2026,0,0
+2026-08-07 18:00:00+00:00,1,SC Cambuur-Leeuwarden,SBV Excelsior,0,3,0,4,0-4,A,Eredivisie,2026,1,1
+2026-08-08 14:30:00+00:00,1,NEC,Telstar 1963,0,2,1,2,1-2,A,Eredivisie,2026,1,1
+2026-08-08 16:45:00+00:00,1,Go Ahead Eagles,Willem II Tilburg,1,1,4,1,4-1,H,Eredivisie,2026,1,1
+2026-08-08 18:00:00+00:00,1,PSV,Fortuna Sittard,0,1,2,2,2-2,D,Eredivisie,2026,0,1
+2026-08-08 19:00:00+00:00,1,AZ,ADO Den Haag,0,0,2,0,2-0,H,Eredivisie,2026,0,0
+2026-08-09 10:15:00+00:00,1,Sparta Rotterdam,Feyenoord Rotterdam,0,1,0,1,0-1,A,Eredivisie,2026,0,0
+2026-08-09 12:30:00+00:00,1,FC Groningen,FC Utrecht,1,0,2,1,2-1,H,Eredivisie,2026,0,1
+2026-08-09 12:30:00+00:00,1,PEC Zwolle,AFC Ajax,0,0,0,2,0-2,A,Eredivisie,2026,0,0
+2026-08-09 14:45:00+00:00,1,SC Heerenveen,FC Twente '65,0,0,1,0,1-0,H,Eredivisie,2026,0,0
+2026-08-14 18:00:00+00:00,2,Telstar 1963,Sparta Rotterdam,0,1,1,3,1-3,A,Eredivisie,2026,0,1
+2026-08-15 14:30:00+00:00,2,Willem II Tilburg,NEC,0,1,1,4,1-4,A,Eredivisie,2026,0,1
+2026-08-15 16:45:00+00:00,2,FC Utrecht,AZ,0,1,1,4,1-4,A,Eredivisie,2026,0,1
+2026-08-15 18:00:00+00:00,2,SBV Excelsior,PSV,0,1,1,2,1-2,A,Eredivisie,2026,0,1
+2026-08-15 19:00:00+00:00,2,Fortuna Sittard,SC Cambuur-Leeuwarden,2,1,3,1,3-1,H,Eredivisie,2026,1,1
+2026-08-16 10:15:00+00:00,2,ADO Den Haag,FC Groningen,0,3,1,4,1-4,A,Eredivisie,2026,1,1
+2026-08-16 12:30:00+00:00,2,Feyenoord Rotterdam,Go Ahead Eagles,2,0,2,2,2-2,D,Eredivisie,2026,1,1
+2026-08-16 12:30:00+00:00,2,FC Twente '65,PEC Zwolle,1,1,3,1,3-1,H,Eredivisie,2026,1,1
+2026-08-16 14:45:00+00:00,2,AFC Ajax,SC Heerenveen,2,1,2,2,2-2,D,Eredivisie,2026,1,1
+2026-08-22 14:30:00+00:00,3,Fortuna Sittard,AZ,0,0,0,2,0-2,A,Eredivisie,2026,0,0
+2026-08-22 16:45:00+00:00,3,Sparta Rotterdam,FC Utrecht,1,1,3,3,3-3,D,Eredivisie,2026,1,1
+2026-08-22 19:00:00+00:00,3,SC Heerenveen,PEC Zwolle,0,0,0,2,0-2,A,Eredivisie,2026,0,0
+2026-08-23 10:15:00+00:00,3,Go Ahead Eagles,ADO Den Haag,1,0,3,1,3-1,H,Eredivisie,2026,0,1
+2026-08-23 12:30:00+00:00,3,PSV,FC Groningen,3,1,5,1,5-1,H,Eredivisie,2026,1,1
+2026-08-23 14:45:00+00:00,3,SC Cambuur-Leeuwarden,Feyenoord Rotterdam,0,4,2,5,2-5,A,Eredivisie,2026,1,1
+2026-08-28 18:00:00+00:00,4,FC Groningen,Fortuna Sittard,1,2,2,3,2-3,A,Eredivisie,2026,1,1
+2026-08-29 14:30:00+00:00,4,SBV Excelsior,Sparta Rotterdam,1,0,2,1,2-1,H,Eredivisie,2026,0,1
+2026-08-29 16:45:00+00:00,4,AZ,Go Ahead Eagles,2,1,5,2,5-2,H,Eredivisie,2026,1,1
+2026-08-29 19:00:00+00:00,4,PEC Zwolle,NEC,1,2,1,3,1-3,A,Eredivisie,2026,1,1
+2026-08-30 10:15:00+00:00,4,FC Utrecht,PSV,1,2,1,6,1-6,A,Eredivisie,2026,1,1
+2026-08-30 12:30:00+00:00,4,Willem II Tilburg,SC Heerenveen,0,0,2,2,2-2,D,Eredivisie,2026,0,1
+2026-08-30 12:30:00+00:00,4,Feyenoord Rotterdam,ADO Den Haag,0,1,2,2,2-2,D,Eredivisie,2026,0,1
+2026-08-30 14:45:00+00:00,4,Telstar 1963,AFC Ajax,0,1,0,4,0-4,A,Eredivisie,2026,0,1
+2026-08-30 18:00:00+00:00,4,SC Cambuur-Leeuwarden,FC Twente '65,0,2,1,4,1-4,A,Eredivisie,2026,1,1
+2026-09-04 18:00:00+00:00,5,Sparta Rotterdam,PEC Zwolle,1,1,2,2,2-2,D,Eredivisie,2026,1,1
+2026-09-05 14:30:00+00:00,5,NEC,Feyenoord Rotterdam,0,0,1,3,1-3,A,Eredivisie,2026,0,1
+2026-09-05 18:00:00+00:00,5,AFC Ajax,PSV,1,2,1,3,1-3,A,Eredivisie,2026,1,1
+2026-09-05 19:00:00+00:00,5,Willem II Tilburg,SBV Excelsior,0,2,0,3,0-3,A,Eredivisie,2026,1,1
+2026-09-06 10:15:00+00:00,5,FC Groningen,FC Twente '65,2,2,2,2,2-2,D,Eredivisie,2026,1,1
+2026-09-06 12:30:00+00:00,5,SC Heerenveen,AZ,2,1,2,3,2-3,A,Eredivisie,2026,1,1
+2026-09-06 12:30:00+00:00,5,Telstar 1963,SC Cambuur-Leeuwarden,0,0,2,2,2-2,D,Eredivisie,2026,0,1
+2026-09-06 14:45:00+00:00,5,ADO Den Haag,Fortuna Sittard,0,2,2,3,2-3,A,Eredivisie,2026,1,1
+2026-09-08 12:00:00+00:00,5,FC Utrecht,Go Ahead Eagles,0,1,3,3,3-3,D,Eredivisie,2026,0,1
+2026-09-08 16:45:00+00:00,3,NEC,SBV Excelsior,1,1,2,2,2-2,D,Eredivisie,2026,1,1
+2026-09-09 16:45:00+00:00,3,FC Twente '65,Telstar 1963,0,0,1,0,1-0,H,Eredivisie,2026,0,0
+2026-09-11 18:00:00+00:00,6,AZ,Willem II Tilburg,1,0,1,1,1-1,D,Eredivisie,2026,0,0
+2026-09-12 14:30:00+00:00,6,FC Twente '65,ADO Den Haag,0,0,2,0,2-0,H,Eredivisie,2026,0,0
+2026-09-12 16:45:00+00:00,6,Go Ahead Eagles,FC Groningen,0,1,1,1,1-1,D,Eredivisie,2026,0,0
+2026-09-12 18:00:00+00:00,6,Fortuna Sittard,AFC Ajax,0,1,1,5,1-5,A,Eredivisie,2026,0,1
+2026-09-12 19:00:00+00:00,6,SC Cambuur-Leeuwarden,NEC,1,0,3,0,3-0,H,Eredivisie,2026,0,1
+2026-09-13 10:15:00+00:00,6,SBV Excelsior,FC Utrecht,0,1,1,2,1-2,A,Eredivisie,2026,0,1
+2026-09-13 12:30:00+00:00,6,SC Heerenveen,Telstar 1963,0,0,0,0,0-0,D,Eredivisie,2026,0,0
+2026-09-13 14:45:00+00:00,6,PEC Zwolle,Feyenoord Rotterdam,0,3,0,7,0-7,A,Eredivisie,2026,1,1
+2026-09-13 18:00:00+00:00,6,PSV,Sparta Rotterdam,2,1,4,1,4-1,H,Eredivisie,2026,1,1
+2026-09-15 18:00:00+00:00,3,AFC Ajax,Willem II Tilburg,2,0,5,1,5-1,H,Eredivisie,2026,1,1
+2026-09-18 18:00:00+00:00,7,FC Groningen,PEC Zwolle,2,0,3,0,3-0,H,Eredivisie,2026,1,1
+2026-09-19 14:30:00+00:00,7,ADO Den Haag,SC Cambuur-Leeuwarden,0,1,1,1,1-1,D,Eredivisie,2026,0,0
+2026-09-19 16:45:00+00:00,7,Sparta Rotterdam,SC Heerenveen,0,2,0,4,0-4,A,Eredivisie,2026,1,1
+2026-09-19 18:00:00+00:00,7,AFC Ajax,SBV Excelsior,1,1,2,2,2-2,D,Eredivisie,2026,1,1
+2026-09-19 19:00:00+00:00,7,Willem II Tilburg,Fortuna Sittard,0,0,0,1,0-1,A,Eredivisie,2026,0,0
+2026-09-20 10:15:00+00:00,7,Feyenoord Rotterdam,FC Utrecht,3,0,5,0,5-0,H,Eredivisie,2026,1,1
+2026-09-20 12:30:00+00:00,7,FC Twente '65,PSV,1,2,3,2,3-2,H,Eredivisie,2026,1,1
+2026-09-20 12:30:00+00:00,7,AZ,Telstar 1963,1,0,1,0,1-0,H,Eredivisie,2026,0,0
+2026-09-20 14:45:00+00:00,7,NEC,Go Ahead Eagles,1,1,1,1,1-1,D,Eredivisie,2026,1,0
+2026-10-09 18:00:00+00:00,8,PSV,SC Heerenveen,1,0,2,0,2-0,H,Eredivisie,2026,0,0
+2026-10-10 14:30:00+00:00,8,Go Ahead Eagles,Sparta Rotterdam,0,1,3,3,3-3,D,Eredivisie,2026,0,1
+2026-10-10 16:45:00+00:00,8,Feyenoord Rotterdam,AZ,1,0,2,0,2-0,H,Eredivisie,2026,0,0
+2026-10-10 18:00:00+00:00,8,Fortuna Sittard,FC Twente '65,1,1,1,1,1-1,D,Eredivisie,2026,1,0
+2026-10-10 19:00:00+00:00,8,AFC Ajax,NEC,1,1,1,1,1-1,D,Eredivisie,2026,1,0
+2026-10-11 10:15:00+00:00,8,FC Utrecht,Willem II Tilburg,0,0,3,1,3-1,H,Eredivisie,2026,0,1
+2026-10-11 12:30:00+00:00,8,PEC Zwolle,SC Cambuur-Leeuwarden,0,0,0,1,0-1,A,Eredivisie,2026,0,0
+2026-10-11 12:30:00+00:00,8,Telstar 1963,ADO Den Haag,2,2,2,2,2-2,D,Eredivisie,2026,1,1
+2026-10-11 14:45:00+00:00,8,SBV Excelsior,FC Groningen,1,2,1,5,1-5,A,Eredivisie,2026,1,1
+2026-08-14 19:00:00+00:00,1,Wolverhampton Wanderers FC,Blackburn Rovers FC,1,1,2,2,2-2,D,Championship,2026,1,1
+2026-08-15 11:30:00+00:00,1,Bolton Wanderers FC,Preston North End FC,2,0,2,1,2-1,H,Championship,2026,1,1
+2026-08-15 14:00:00+00:00,1,Norwich City FC,West Bromwich Albion FC,0,0,1,2,1-2,A,Championship,2026,0,1
+2026-08-15 14:00:00+00:00,1,Bristol City FC,Millwall FC,0,1,0,2,0-2,A,Championship,2026,0,0
+2026-08-15 14:00:00+00:00,1,Middlesbrough FC,Lincoln City FC,0,1,2,1,2-1,H,Championship,2026,0,1
+2026-08-15 14:00:00+00:00,1,Stoke City FC,Swansea City AFC,1,1,1,2,1-2,A,Championship,2026,1,1
+2026-08-15 14:00:00+00:00,1,Charlton Athletic FC,Derby County FC,0,1,2,1,2-1,H,Championship,2026,0,1
+2026-08-15 14:00:00+00:00,1,Portsmouth FC,Queens Park Rangers FC,1,3,1,3,1-3,A,Championship,2026,1,1
+2026-08-15 16:30:00+00:00,1,Sheffield United FC,Birmingham City FC,0,0,0,0,0-0,D,Championship,2026,0,0
+2026-08-16 12:30:00+00:00,1,Watford FC,Southampton FC,2,0,2,1,2-1,H,Championship,2026,1,1
+2026-08-16 15:00:00+00:00,1,Burnley FC,West Ham United FC,0,1,2,2,2-2,D,Championship,2026,0,1
+2026-08-17 19:00:00+00:00,1,Cardiff City FC,Wrexham AFC,0,1,1,1,1-1,D,Championship,2026,0,0
+2026-08-22 11:30:00+00:00,2,Birmingham City FC,Bristol City FC,1,1,2,2,2-2,D,Championship,2026,1,1
+2026-08-22 11:30:00+00:00,2,Lincoln City FC,Portsmouth FC,1,2,1,3,1-3,A,Championship,2026,1,1
+2026-08-22 11:30:00+00:00,2,Millwall FC,Norwich City FC,1,0,3,0,3-0,H,Championship,2026,0,1
+2026-08-22 14:00:00+00:00,2,Swansea City AFC,Sheffield United FC,0,0,0,0,0-0,D,Championship,2026,0,0
+2026-08-22 14:00:00+00:00,2,West Ham United FC,Charlton Athletic FC,0,1,1,2,1-2,A,Championship,2026,0,1
+2026-08-22 14:00:00+00:00,2,Derby County FC,Cardiff City FC,1,2,2,2,2-2,D,Championship,2026,1,1
+2026-08-22 14:00:00+00:00,2,Preston North End FC,Wolverhampton Wanderers FC,0,1,1,3,1-3,A,Championship,2026,0,1
+2026-08-22 14:00:00+00:00,2,Wrexham AFC,Watford FC,1,1,1,1,1-1,D,Championship,2026,1,0
+2026-08-22 14:00:00+00:00,2,Blackburn Rovers FC,Middlesbrough FC,0,1,2,1,2-1,H,Championship,2026,0,1
+2026-08-22 14:00:00+00:00,2,Southampton FC,Stoke City FC,1,1,3,1,3-1,H,Championship,2026,1,1
+2026-08-22 14:00:00+00:00,2,Queens Park Rangers FC,Bolton Wanderers FC,0,0,0,0,0-0,D,Championship,2026,0,0
+2026-08-23 11:00:00+00:00,2,West Bromwich Albion FC,Burnley FC,1,1,3,1,3-1,H,Championship,2026,1,1
+2026-08-28 19:00:00+00:00,3,Wrexham AFC,Birmingham City FC,0,1,1,2,1-2,A,Championship,2026,0,1
+2026-08-29 11:30:00+00:00,3,Wolverhampton Wanderers FC,Stoke City FC,2,1,4,1,4-1,H,Championship,2026,1,1
+2026-08-29 11:30:00+00:00,3,Derby County FC,Swansea City AFC,0,2,0,3,0-3,A,Championship,2026,1,1
+2026-08-29 11:30:00+00:00,3,Middlesbrough FC,West Bromwich Albion FC,0,0,3,1,3-1,H,Championship,2026,0,1
+2026-08-29 14:00:00+00:00,3,Norwich City FC,Burnley FC,3,1,4,1,4-1,H,Championship,2026,1,1
+2026-08-29 14:00:00+00:00,3,Bolton Wanderers FC,Lincoln City FC,0,0,0,1,0-1,A,Championship,2026,0,0
+2026-08-29 14:00:00+00:00,3,Bristol City FC,Portsmouth FC,1,0,2,1,2-1,H,Championship,2026,0,1
+2026-08-29 14:00:00+00:00,3,Southampton FC,Millwall FC,2,1,5,1,5-1,H,Championship,2026,1,1
+2026-08-29 14:00:00+00:00,3,Charlton Athletic FC,Preston North End FC,0,0,1,0,1-0,H,Championship,2026,0,0
+2026-08-29 14:00:00+00:00,3,Blackburn Rovers FC,Queens Park Rangers FC,0,0,1,2,1-2,A,Championship,2026,0,1
+2026-08-29 14:00:00+00:00,3,Cardiff City FC,Sheffield United FC,2,2,2,2,2-2,D,Championship,2026,1,1
+2026-08-29 14:00:00+00:00,3,Watford FC,West Ham United FC,1,1,1,1,1-1,D,Championship,2026,1,0
+2026-09-01 18:45:00+00:00,4,Preston North End FC,Bristol City FC,0,1,1,3,1-3,A,Championship,2026,0,1
+2026-09-01 18:45:00+00:00,4,West Ham United FC,Wolverhampton Wanderers FC,2,1,4,2,4-2,H,Championship,2026,1,1
+2026-09-01 18:45:00+00:00,4,Lincoln City FC,Blackburn Rovers FC,0,0,0,0,0-0,D,Championship,2026,0,0
+2026-09-01 18:45:00+00:00,4,Sheffield United FC,Bolton Wanderers FC,1,1,3,2,3-2,H,Championship,2026,1,1
+2026-09-01 18:45:00+00:00,4,Portsmouth FC,Derby County FC,0,1,0,2,0-2,A,Championship,2026,0,0
+2026-09-01 18:45:00+00:00,4,Swansea City AFC,Watford FC,2,0,2,0,2-0,H,Championship,2026,1,0
+2026-09-01 19:00:00+00:00,4,Stoke City FC,Norwich City FC,1,0,1,0,1-0,H,Championship,2026,0,0
+2026-09-01 19:00:00+00:00,4,Birmingham City FC,Southampton FC,0,1,1,1,1-1,D,Championship,2026,0,0
+2026-09-02 18:45:00+00:00,4,Millwall FC,Wrexham AFC,0,1,0,3,0-3,A,Championship,2026,0,1
+2026-09-02 18:45:00+00:00,4,Queens Park Rangers FC,Cardiff City FC,1,0,2,1,2-1,H,Championship,2026,0,1
+2026-09-02 18:45:00+00:00,4,West Bromwich Albion FC,Charlton Athletic FC,0,0,1,1,1-1,D,Championship,2026,0,0
+2026-09-02 19:00:00+00:00,4,Burnley FC,Middlesbrough FC,0,1,1,1,1-1,D,Championship,2026,0,0
+2026-09-05 11:30:00+00:00,5,Preston North End FC,Blackburn Rovers FC,2,0,2,1,2-1,H,Championship,2026,1,1
+2026-09-05 11:30:00+00:00,5,Stoke City FC,Charlton Athletic FC,4,0,4,0,4-0,H,Championship,2026,1,1
+2026-09-05 11:30:00+00:00,5,Lincoln City FC,Southampton FC,0,1,1,1,1-1,D,Championship,2026,0,0
+2026-09-05 14:00:00+00:00,5,Queens Park Rangers FC,Middlesbrough FC,0,1,0,1,0-1,A,Championship,2026,0,0
+2026-09-05 14:00:00+00:00,5,Sheffield United FC,Norwich City FC,1,2,1,3,1-3,A,Championship,2026,1,1
+2026-09-05 14:00:00+00:00,5,Portsmouth FC,Cardiff City FC,1,0,2,0,2-0,H,Championship,2026,0,0
+2026-09-05 14:00:00+00:00,5,West Bromwich Albion FC,Watford FC,1,0,1,0,1-0,H,Championship,2026,0,0
+2026-09-05 14:00:00+00:00,5,West Ham United FC,Derby County FC,1,0,3,0,3-0,H,Championship,2026,0,1
+2026-09-05 14:00:00+00:00,5,Burnley FC,Bristol City FC,0,0,1,2,1-2,A,Championship,2026,0,1
+2026-09-05 14:00:00+00:00,5,Millwall FC,Bolton Wanderers FC,1,0,4,0,4-0,H,Championship,2026,0,1
+2026-09-05 19:00:00+00:00,5,Swansea City AFC,Wrexham AFC,0,0,0,0,0-0,D,Championship,2026,0,0
+2026-09-06 11:00:00+00:00,5,Birmingham City FC,Wolverhampton Wanderers FC,2,2,2,2,2-2,D,Championship,2026,1,1
+2026-09-08 18:45:00+00:00,6,Blackburn Rovers FC,Sheffield United FC,1,2,1,2,1-2,A,Championship,2026,1,1
+2026-09-08 18:45:00+00:00,6,Southampton FC,Swansea City AFC,2,0,3,1,3-1,H,Championship,2026,1,1
+2026-09-08 18:45:00+00:00,6,Watford FC,Preston North End FC,0,1,2,1,2-1,H,Championship,2026,0,1
+2026-09-08 18:45:00+00:00,6,Cardiff City FC,Stoke City FC,0,1,1,1,1-1,D,Championship,2026,0,0
+2026-09-08 18:45:00+00:00,6,Wrexham AFC,Burnley FC,0,1,1,1,1-1,D,Championship,2026,0,0
+2026-09-08 19:00:00+00:00,6,Bolton Wanderers FC,West Ham United FC,2,2,2,3,2-3,A,Championship,2026,1,1
+2026-09-09 18:45:00+00:00,6,Derby County FC,West Bromwich Albion FC,0,1,0,1,0-1,A,Championship,2026,0,0
+2026-09-09 18:45:00+00:00,6,Norwich City FC,Birmingham City FC,2,0,2,1,2-1,H,Championship,2026,1,1
+2026-09-09 19:00:00+00:00,6,Charlton Athletic FC,Queens Park Rangers FC,0,0,0,0,0-0,D,Championship,2026,0,0
+2026-09-11 19:00:00+00:00,7,West Ham United FC,Wrexham AFC,2,0,6,0,6-0,H,Championship,2026,1,1
+2026-09-12 11:30:00+00:00,7,Derby County FC,Birmingham City FC,1,1,1,2,1-2,A,Championship,2026,1,1
+2026-09-12 11:30:00+00:00,7,Bolton Wanderers FC,Cardiff City FC,0,0,1,0,1-0,H,Championship,2026,0,0
+2026-09-12 11:30:00+00:00,7,West Bromwich Albion FC,Queens Park Rangers FC,1,1,1,1,1-1,D,Championship,2026,1,0
+2026-09-12 14:00:00+00:00,7,Southampton FC,Bristol City FC,1,0,4,1,4-1,H,Championship,2026,0,1
+2026-09-12 14:00:00+00:00,7,Preston North End FC,Lincoln City FC,0,0,0,1,0-1,A,Championship,2026,0,0
+2026-09-12 14:00:00+00:00,7,Blackburn Rovers FC,Millwall FC,1,0,3,1,3-1,H,Championship,2026,0,1
+2026-09-12 14:00:00+00:00,7,Charlton Athletic FC,Portsmouth FC,0,0,0,0,0-0,D,Championship,2026,0,0
+2026-09-12 14:00:00+00:00,7,Watford FC,Stoke City FC,0,1,1,2,1-2,A,Championship,2026,0,1
+2026-09-12 14:00:00+00:00,7,Swansea City AFC,Burnley FC,2,0,3,1,3-1,H,Championship,2026,1,1
+2026-09-12 14:00:00+00:00,7,Middlesbrough FC,Norwich City FC,3,1,4,3,4-3,H,Championship,2026,1,1
+2026-09-13 11:00:00+00:00,7,Sheffield United FC,Wolverhampton Wanderers FC,0,0,0,1,0-1,A,Championship,2026,0,0
+2026-09-15 18:45:00+00:00,6,Middlesbrough FC,Millwall FC,0,2,2,2,2-2,D,Championship,2026,1,1
+2026-09-15 18:45:00+00:00,6,Bristol City FC,Lincoln City FC,0,0,0,1,0-1,A,Championship,2026,0,0
+2026-09-18 19:00:00+00:00,8,Bristol City FC,Watford FC,1,0,1,0,1-0,H,Championship,2026,0,0
+2026-09-19 11:30:00+00:00,8,Stoke City FC,Sheffield United FC,0,0,2,1,2-1,H,Championship,2026,0,1
+2026-09-19 11:30:00+00:00,8,Millwall FC,West Ham United FC,2,0,2,2,2-2,D,Championship,2026,1,1
+2026-09-19 11:30:00+00:00,8,Cardiff City FC,Charlton Athletic FC,2,1,3,1,3-1,H,Championship,2026,1,1
+2026-09-19 14:00:00+00:00,8,Wrexham AFC,Southampton FC,1,0,2,1,2-1,H,Championship,2026,0,1
+2026-09-19 14:00:00+00:00,8,Burnley FC,Derby County FC,1,0,1,1,1-1,D,Championship,2026,0,0
+2026-09-19 14:00:00+00:00,8,Queens Park Rangers FC,Preston North End FC,0,2,2,2,2-2,D,Championship,2026,1,1
+2026-09-19 14:00:00+00:00,8,Portsmouth FC,Blackburn Rovers FC,1,1,2,2,2-2,D,Championship,2026,1,1
+2026-09-19 14:00:00+00:00,8,Birmingham City FC,Middlesbrough FC,0,1,2,2,2-2,D,Championship,2026,0,1
+2026-09-19 14:00:00+00:00,8,Lincoln City FC,Swansea City AFC,1,0,1,2,1-2,A,Championship,2026,0,1
+2026-09-20 11:00:00+00:00,8,Wolverhampton Wanderers FC,West Bromwich Albion FC,0,0,1,0,1-0,H,Championship,2026,0,0
+2026-09-20 12:30:00+00:00,8,Norwich City FC,Bolton Wanderers FC,2,2,3,4,3-4,A,Championship,2026,1,1
+2026-10-09 19:00:00+00:00,9,West Ham United FC,Queens Park Rangers FC,0,1,1,1,1-1,D,Championship,2026,0,0
+2026-10-10 11:30:00+00:00,9,West Bromwich Albion FC,Birmingham City FC,0,1,0,1,0-1,A,Championship,2026,0,0
+2026-10-10 11:30:00+00:00,9,Swansea City AFC,Norwich City FC,0,1,2,1,2-1,H,Championship,2026,0,1
+2026-10-10 11:30:00+00:00,9,Charlton Athletic FC,Bristol City FC,1,1,1,1,1-1,D,Championship,2026,1,0
+2026-10-10 14:00:00+00:00,9,Sheffield United FC,Lincoln City FC,1,0,3,0,3-0,H,Championship,2026,0,1
+2026-10-10 14:00:00+00:00,9,Watford FC,Burnley FC,0,3,0,4,0-4,A,Championship,2026,1,1
+2026-10-10 14:00:00+00:00,9,Derby County FC,Wrexham AFC,1,0,1,1,1-1,D,Championship,2026,0,0
+2026-10-10 14:00:00+00:00,9,Blackburn Rovers FC,Cardiff City FC,2,0,2,1,2-1,H,Championship,2026,1,1
+2026-10-10 14:00:00+00:00,9,Bolton Wanderers FC,Stoke City FC,0,1,1,2,1-2,A,Championship,2026,0,1
+2026-10-10 14:00:00+00:00,9,Preston North End FC,Millwall FC,0,0,0,1,0-1,A,Championship,2026,0,0
+2026-10-10 14:00:00+00:00,9,Middlesbrough FC,Wolverhampton Wanderers FC,0,0,1,0,1-0,H,Championship,2026,0,0
+2026-10-11 11:00:00+00:00,9,Southampton FC,Portsmouth FC,1,0,1,0,1-0,H,Championship,2026,0,0
+2026-10-13 18:45:00+00:00,10,Wolverhampton Wanderers FC,Bolton Wanderers FC,0,1,1,3,1-3,A,Championship,2026,0,1
+2026-10-13 18:45:00+00:00,10,Wrexham AFC,West Bromwich Albion FC,0,0,1,2,1-2,A,Championship,2026,0,1
+2026-10-13 18:45:00+00:00,10,Millwall FC,Swansea City AFC,0,0,0,1,0-1,A,Championship,2026,0,0
+2026-10-13 18:45:00+00:00,10,Cardiff City FC,Watford FC,4,0,5,1,5-1,H,Championship,2026,1,1
+2026-10-13 18:45:00+00:00,10,Burnley FC,Charlton Athletic FC,1,0,2,2,2-2,D,Championship,2026,0,1
+2026-10-13 18:45:00+00:00,10,Bristol City FC,Blackburn Rovers FC,0,1,0,1,0-1,A,Championship,2026,0,0
+2026-10-13 19:00:00+00:00,10,Birmingham City FC,Preston North End FC,3,0,4,0,4-0,H,Championship,2026,1,1
+2026-10-13 19:00:00+00:00,10,Stoke City FC,Middlesbrough FC,0,0,2,3,2-3,A,Championship,2026,0,1
+2026-10-14 18:45:00+00:00,10,Portsmouth FC,Sheffield United FC,1,0,3,2,3-2,H,Championship,2026,0,1
+2026-10-14 18:45:00+00:00,10,Norwich City FC,Southampton FC,0,0,0,1,0-1,A,Championship,2026,0,0
+2026-10-14 18:45:00+00:00,10,Queens Park Rangers FC,Derby County FC,3,0,4,1,4-1,H,Championship,2026,1,1
+2026-10-14 19:00:00+00:00,10,Lincoln City FC,West Ham United FC,0,1,0,6,0-6,A,Championship,2026,0,1
+2026-08-07 19:15:00+00:00,1,GD Estoril Praia,FC Famalicão,0,1,1,1,1-1,D,Primeira Liga,2026,0,0
+2026-08-08 14:30:00+00:00,1,CS Marítimo,Casa Pia AC,0,0,1,0,1-0,H,Primeira Liga,2026,0,0
+2026-08-08 17:00:00+00:00,1,Vitória SC,FC Arouca,0,0,0,1,0-1,A,Primeira Liga,2026,0,0
+2026-08-08 19:30:00+00:00,1,CF Estrela da Amadora,Sporting Clube de Portugal,0,0,2,2,2-2,D,Primeira Liga,2026,0,1
+2026-08-09 17:00:00+00:00,1,FC Porto,FC Alverca,2,0,2,0,2-0,H,Primeira Liga,2026,1,0
+2026-08-09 19:30:00+00:00,1,Moreirense FC,Sporting Clube de Braga,1,1,2,2,2-2,D,Primeira Liga,2026,1,1
+2026-08-09 19:30:00+00:00,1,Gil Vicente FC,Rio Ave FC,0,0,1,0,1-0,H,Primeira Liga,2026,0,0
+2026-08-09 19:30:00+00:00,1,Sport Lisboa e Benfica,Académico de Viseu FC,1,0,2,2,2-2,D,Primeira Liga,2026,0,1
+2026-08-10 19:15:00+00:00,1,CD Santa Clara,CD Nacional,2,2,2,2,2-2,D,Primeira Liga,2026,1,1
+2026-08-14 19:15:00+00:00,2,Sporting Clube de Portugal,Vitória SC,3,0,3,2,3-2,H,Primeira Liga,2026,1,1
+2026-08-15 14:30:00+00:00,2,FC Alverca,CF Estrela da Amadora,0,0,2,2,2-2,D,Primeira Liga,2026,0,1
+2026-08-15 17:00:00+00:00,2,Académico de Viseu FC,CD Santa Clara,0,1,0,1,0-1,A,Primeira Liga,2026,0,0
+2026-08-15 19:30:00+00:00,2,Rio Ave FC,FC Porto,0,1,0,2,0-2,A,Primeira Liga,2026,0,0
+2026-08-16 14:30:00+00:00,2,CD Nacional,GD Estoril Praia,0,0,2,0,2-0,H,Primeira Liga,2026,0,0
+2026-08-16 17:00:00+00:00,2,FC Arouca,Moreirense FC,3,0,4,0,4-0,H,Primeira Liga,2026,1,1
+2026-08-16 19:30:00+00:00,2,FC Famalicão,CS Marítimo,1,1,1,2,1-2,A,Primeira Liga,2026,1,1
+2026-08-17 19:15:00+00:00,2,Casa Pia AC,Sport Lisboa e Benfica,0,2,0,7,0-7,A,Primeira Liga,2026,1,1
+2026-08-22 14:30:00+00:00,3,CS Marítimo,Académico de Viseu FC,0,2,2,2,2-2,D,Primeira Liga,2026,1,1
+2026-08-22 17:00:00+00:00,3,GD Estoril Praia,Rio Ave FC,0,1,0,2,0-2,A,Primeira Liga,2026,0,0
+2026-08-22 19:30:00+00:00,3,Sporting Clube de Portugal,FC Alverca,1,0,3,1,3-1,H,Primeira Liga,2026,0,1
+2026-08-23 14:30:00+00:00,3,Vitória SC,CD Nacional,1,0,1,0,1-0,H,Primeira Liga,2026,0,0
+2026-08-23 17:00:00+00:00,3,CD Santa Clara,FC Famalicão,1,0,1,0,1-0,H,Primeira Liga,2026,0,0
+2026-08-23 19:30:00+00:00,3,FC Porto,FC Arouca,0,0,2,0,2-0,H,Primeira Liga,2026,0,0
+2026-08-24 19:15:00+00:00,3,Gil Vicente FC,Casa Pia AC,2,0,2,0,2-0,H,Primeira Liga,2026,1,0
+2026-08-28 19:15:00+00:00,4,Rio Ave FC,Sporting Clube de Portugal,0,4,0,4,0-4,A,Primeira Liga,2026,1,1
+2026-08-29 14:30:00+00:00,4,FC Alverca,CD Santa Clara,0,0,1,1,1-1,D,Primeira Liga,2026,0,0
+2026-08-29 14:30:00+00:00,4,FC Arouca,CS Marítimo,1,1,2,1,2-1,H,Primeira Liga,2026,1,1
+2026-08-29 17:00:00+00:00,4,Académico de Viseu FC,FC Porto,0,3,0,3,0-3,A,Primeira Liga,2026,1,1
+2026-08-30 14:30:00+00:00,4,CD Nacional,CF Estrela da Amadora,1,1,2,3,2-3,A,Primeira Liga,2026,1,1
+2026-08-30 17:00:00+00:00,4,Casa Pia AC,Moreirense FC,0,1,0,1,0-1,A,Primeira Liga,2026,0,0
+2026-08-30 19:30:00+00:00,4,FC Famalicão,Gil Vicente FC,0,0,0,0,0-0,D,Primeira Liga,2026,0,0
+2026-08-31 19:15:00+00:00,4,Sport Lisboa e Benfica,GD Estoril Praia,1,0,2,1,2-1,H,Primeira Liga,2026,0,1
+2026-08-31 19:15:00+00:00,4,Sporting Clube de Braga,Vitória SC,0,0,1,0,1-0,H,Primeira Liga,2026,0,0
+2026-09-04 19:15:00+00:00,5,FC Porto,Moreirense FC,1,1,2,1,2-1,H,Primeira Liga,2026,1,1
+2026-09-05 14:30:00+00:00,5,CF Estrela da Amadora,FC Famalicão,0,1,2,2,2-2,D,Primeira Liga,2026,0,1
+2026-09-05 17:00:00+00:00,5,FC Alverca,Sporting Clube de Braga,1,0,1,2,1-2,A,Primeira Liga,2026,0,1
+2026-09-05 17:00:00+00:00,5,CS Marítimo,Sport Lisboa e Benfica,0,1,0,3,0-3,A,Primeira Liga,2026,0,1
+2026-09-05 19:30:00+00:00,5,Sporting Clube de Portugal,CD Nacional,1,0,2,0,2-0,H,Primeira Liga,2026,0,0
+2026-09-06 14:30:00+00:00,5,CD Santa Clara,Rio Ave FC,1,0,4,0,4-0,H,Primeira Liga,2026,0,1
+2026-09-06 17:00:00+00:00,5,Vitória SC,Casa Pia AC,0,0,0,0,0-0,D,Primeira Liga,2026,0,0
+2026-09-06 19:30:00+00:00,5,Gil Vicente FC,Académico de Viseu FC,0,1,0,1,0-1,A,Primeira Liga,2026,0,0
+2026-09-07 19:15:00+00:00,5,GD Estoril Praia,FC Arouca,0,0,0,0,0-0,D,Primeira Liga,2026,0,0
+2026-09-09 19:45:00+00:00,3,Moreirense FC,Sport Lisboa e Benfica,0,1,0,4,0-4,A,Primeira Liga,2026,0,1
+2026-09-10 19:15:00+00:00,3,CF Estrela da Amadora,Sporting Clube de Braga,1,1,2,1,2-1,H,Primeira Liga,2026,1,1
+2026-09-12 14:30:00+00:00,6,CD Nacional,FC Alverca,0,3,1,3,1-3,A,Primeira Liga,2026,1,1
+2026-09-12 17:00:00+00:00,6,Casa Pia AC,FC Porto,1,1,1,4,1-4,A,Primeira Liga,2026,1,1
+2026-09-12 19:30:00+00:00,6,Académico de Viseu FC,Vitória SC,0,0,2,1,2-1,H,Primeira Liga,2026,0,1
+2026-09-13 17:00:00+00:00,6,Sport Lisboa e Benfica,Gil Vicente FC,1,1,3,1,3-1,H,Primeira Liga,2026,1,1
+2026-09-13 17:00:00+00:00,6,FC Arouca,CD Santa Clara,0,2,1,2,1-2,A,Primeira Liga,2026,1,1
+2026-09-13 19:30:00+00:00,6,FC Famalicão,Sporting Clube de Portugal,0,0,1,1,1-1,D,Primeira Liga,2026,0,0
+2026-09-14 17:45:00+00:00,6,Rio Ave FC,CF Estrela da Amadora,1,1,3,3,3-3,D,Primeira Liga,2026,1,1
+2026-09-14 19:15:00+00:00,6,Moreirense FC,CS Marítimo,2,0,3,1,3-1,H,Primeira Liga,2026,1,1
+2026-09-14 19:45:00+00:00,6,Sporting Clube de Braga,GD Estoril Praia,0,0,1,0,1-0,H,Primeira Liga,2026,0,0
+2026-09-19 14:30:00+00:00,7,CD Nacional,FC Famalicão,0,3,0,4,0-4,A,Primeira Liga,2026,1,1
+2026-09-19 14:30:00+00:00,7,Gil Vicente FC,CS Marítimo,1,0,1,1,1-1,D,Primeira Liga,2026,0,0
+2026-09-19 17:00:00+00:00,7,FC Alverca,Rio Ave FC,1,0,1,0,1-0,H,Primeira Liga,2026,0,0
+2026-09-19 19:30:00+00:00,7,Sporting Clube de Portugal,FC Arouca,2,0,2,2,2-2,D,Primeira Liga,2026,1,1
+2026-09-20 14:30:00+00:00,7,Vitória SC,Moreirense FC,0,0,1,1,1-1,D,Primeira Liga,2026,0,0
+2026-09-20 14:30:00+00:00,7,CF Estrela da Amadora,Académico de Viseu FC,0,2,0,2,0-2,A,Primeira Liga,2026,1,0
+2026-09-20 17:00:00+00:00,7,CD Santa Clara,Sporting Clube de Braga,0,0,0,0,0-0,D,Primeira Liga,2026,0,0
+2026-09-20 17:00:00+00:00,7,GD Estoril Praia,Casa Pia AC,0,0,1,2,1-2,A,Primeira Liga,2026,0,1
+2026-09-20 19:30:00+00:00,7,FC Porto,Sport Lisboa e Benfica,1,0,3,1,3-1,H,Primeira Liga,2026,0,1
+2026-10-09 17:45:00+00:00,8,Moreirense FC,Gil Vicente FC,0,0,0,1,0-1,A,Primeira Liga,2026,0,0
+2026-10-09 19:15:00+00:00,8,Sporting Clube de Braga,Sporting Clube de Portugal,1,0,1,3,1-3,A,Primeira Liga,2026,0,1
+2026-10-10 17:00:00+00:00,8,CS Marítimo,FC Porto,1,1,1,2,1-2,A,Primeira Liga,2026,1,1
+2026-10-10 19:30:00+00:00,8,Casa Pia AC,CD Santa Clara,0,0,0,1,0-1,A,Primeira Liga,2026,0,0
+2026-10-10 19:30:00+00:00,8,Académico de Viseu FC,GD Estoril Praia,1,0,2,1,2-1,H,Primeira Liga,2026,0,1
+2026-10-11 14:30:00+00:00,8,Rio Ave FC,CD Nacional,1,1,3,2,3-2,H,Primeira Liga,2026,1,1
+2026-10-11 17:00:00+00:00,8,Sport Lisboa e Benfica,Vitória SC,1,0,2,0,2-0,H,Primeira Liga,2026,0,0
+2026-10-11 19:30:00+00:00,8,FC Arouca,CF Estrela da Amadora,1,0,1,0,1-0,H,Primeira Liga,2026,0,0
+2026-10-12 19:15:00+00:00,8,FC Famalicão,FC Alverca,1,1,1,4,1-4,A,Primeira Liga,2026,1,1

@@ -25,8 +25,8 @@ BASE_URL = "https://api.football-data.org/v4"
 # -----------------------------
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(message)s")
 
-CSV_FILE = "data/all_leagues_2025.csv"
-SEASON = 2025
+CSV_FILE = "data/all_leagues_2026.csv"
+SEASON = 2026
 
 competitions = {
     "PL": "Premier League",
